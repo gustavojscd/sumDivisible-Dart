@@ -7,4 +7,4 @@ Agora para rodar esse código é muito simples, e para isso temos duas possibili
 
 - Primeiro, você pode rodar no site https://dartpad.dev/? , apenas copiar o código e depois basta ver o resultado clicando em "Run", feito isso o código deverá agir como escrito.
 
-- Segundo, você pode clonar e rodar no editor de teste VScode, usando a extensão Code Runner.
+- Segundo, você pode clonar e rodar no editor de teste VScode, usando a extensão Code Runner ou simplesmente copiar o código e colar em um novo arquivo no VScode e instalar a extensão Code Runner. Dando um Ctrl+Alt+N o projeto irá executar.
